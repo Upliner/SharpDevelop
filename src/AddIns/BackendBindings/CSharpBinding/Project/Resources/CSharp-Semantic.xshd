@@ -133,6 +133,7 @@
 		</Keywords>
 		
 		<Keywords color="TypeKeywords">
+			<Word>var</Word>
 			<Word>as</Word>
 			<Word>is</Word>
 			<Word>new</Word>

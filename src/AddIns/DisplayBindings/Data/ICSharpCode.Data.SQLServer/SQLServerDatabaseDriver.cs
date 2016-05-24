@@ -68,7 +68,7 @@ namespace ICSharpCode.Data.Core.DatabaseDrivers.SQLServer
                 clmns.is_nullable AS [IsNullable],
                 clmns.is_replicated AS [IsReplicated],
                 clmns.is_rowguidcol AS [IsRowGuidCol],
-                clmns.is_sparse AS [IsSparse],
+                --clmns.is_sparse AS [IsSparse],
                 clmns.is_xml_document AS [IsXmlDocument],
                 clmns.object_id AS [ObjectId],
                 clmns.rule_object_id AS [RuleObjectId],
